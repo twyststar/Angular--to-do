@@ -1,0 +1,10 @@
+li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  color: blue;
+}
+
+.test {
+  color: red;
+  border: 1px solid black;
+}
